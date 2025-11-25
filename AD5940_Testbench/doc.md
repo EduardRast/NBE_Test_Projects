@@ -8,3 +8,12 @@ The goal of this testbench is to create a complete hardware platform and perform
 - [Firmware Library](https://github.com/analogdevicesinc/ad5940lib)
 - [Examples official GuitHub page](https://github.com/analogdevicesinc/ad5940-examples?tab=readme-ov-file)
 
+-----
+TODO: 
+- solder an spi-compatible device
+- create an spi-testing protocol between 2 esps 
+- test the spi on an esp
+- lisgt all of the functions and sctions to take 
+- create small tests for all of the functionalities 
+- write the functions for the port and main 
+- incrementaly complete the example
